@@ -7,4 +7,6 @@ def divide(x, y):
 	"""Divides x by y and returns the
 	float value x/y """
 	return x/y
-
+def subtract(x, y):
+	return x - y
+	
